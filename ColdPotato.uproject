@@ -21,6 +21,10 @@
 		{
 			"Name": "VictoryBPLibrary",
 			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	]
 }
